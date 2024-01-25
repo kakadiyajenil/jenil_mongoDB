@@ -8,7 +8,7 @@ db.student.insertOne({
     name: "josh",
     age: 20,
     email: "josh@test.on",
-    hobbies: ["sport",'Dancing'],
+    hobbies: ["sport","Dancing"],
     address: {
         line1: '208, city-conter',
         line2: 'yogichok',
