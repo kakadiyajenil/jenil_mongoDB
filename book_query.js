@@ -15,3 +15,4 @@ db.books.find({});
 // db.books.find({"pages" : {$in: [384,500,1084]}})
 
 // db.books.find({"pages" : {$nin:[384,500,1084]}})
+// db.books.find({"pages" : {$nin:[384,500,1084]}})
